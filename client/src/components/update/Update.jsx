@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import { useState } from "react";
 import { makeRequest } from "../../axios";
 import "./update.scss";
